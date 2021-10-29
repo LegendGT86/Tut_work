@@ -1,0 +1,9 @@
+body{background-color: green;}
+#canv1{ background-color:blue;
+height: 150px;}
+#canv2{background-color: yellow;
+height: 150px;}
+#canv3{fill: url(https://thumbs.dreamstime.com/b/red-leather-interior-luxury-black-sport-car-green-screen-footage-realistic-k-animation-87726322.jpg);
+height: 150px;
+size:25px;
+}
